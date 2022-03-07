@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\zarras\Documents\zarras-home\doc\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\.metadata\.plugins\org.eclipse.jdt.core
+1565774842.index
+1514018787.index
+3294265920.index
+3009262294.index
+3023075023.index
+710206316.index
+1424334801.index
+3275179609.index
+758720373.index

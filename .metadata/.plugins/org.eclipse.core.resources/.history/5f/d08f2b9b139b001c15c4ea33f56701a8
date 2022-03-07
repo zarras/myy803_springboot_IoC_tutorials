@@ -1,0 +1,13 @@
+package myy803.springboot.IoC.myy803_IoC_tutorial_0;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Myy803IoCTutorial0Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Myy803IoCTutorial0Application.class, args);
+	}
+
+}
