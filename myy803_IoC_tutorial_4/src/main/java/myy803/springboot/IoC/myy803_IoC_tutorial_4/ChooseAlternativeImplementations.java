@@ -29,7 +29,7 @@ public class ChooseAlternativeImplementations implements CommandLineRunner {
 		
 		System.out.println("******* SpringBoot IoC Tutorial 4 ******* Choose alternative Controller objects");
 		
-		Controller controller = (Controller) context.getBean(controllerType);
+		Controller controller =  (Controller) context.getBean(controllerType);
 		
 		controller.request("Dig a whole");
 		controller.request("Bury treasure");

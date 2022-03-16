@@ -22,9 +22,10 @@ public class AutoWiredContextApp implements CommandLineRunner {
 		
 		System.out.println("******* SpringBoot IoC Tutorial 1 ******* Autowire context object");
 
-		 Controller controller = context.getBean(Controller.class);
-		 controller.request("Dig a whole");
-		 controller.request("Bury treasure");
+		// Given a Class definition the context creates and object of that class
+		Controller controller = context.getBean(Controller.class);
+		controller.request("Dig a whole");
+		controller.request("Bury treasure");
 		
 	}
 
