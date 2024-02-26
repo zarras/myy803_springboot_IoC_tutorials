@@ -4,10 +4,12 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	
+	<!-- here we define the parent pom which defines further properties, dependencies, etc. -->
 	<parent>
+	
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.4</version>
+		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
@@ -17,14 +19,18 @@
 	<name>myy803_IoC_tutorial_0</name>
 	<description>Demo project for Spring Boot</description>
 	
+	<!-- here we define properties like the maven components versions, java version,  -->
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	
+	<!-- libs that we depend on -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
+			<!-- scope defines the purpose of the libs - default is compile and puts the lib in classpath -->
+			<scope>compile</scope>
 		</dependency>
 
 		<dependency>
@@ -42,8 +48,11 @@
 	
 	</dependencies>
 
+    <!-- build properties like output directories name of the executable and resources like config files -->
 	<build>
+	<!-- the plugins customize the build process - in maven everything in the build process is done with a combination of plugins -->
 		<plugins>
+		<!-- setting the plugin maven uses for packaging the spring project jar -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>

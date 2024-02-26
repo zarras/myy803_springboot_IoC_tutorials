@@ -24,5 +24,4 @@ public class AutoWiredPropertyApp implements CommandLineRunner {
 		controller.request("Dig a whole");
 		controller.request("Bury treasure");
 	}
-
 }
