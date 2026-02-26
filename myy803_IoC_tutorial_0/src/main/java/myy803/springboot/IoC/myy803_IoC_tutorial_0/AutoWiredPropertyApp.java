@@ -9,9 +9,13 @@ import org.springframework.context.ApplicationContext;
 @SpringBootApplication
 public class AutoWiredPropertyApp implements CommandLineRunner {
 	
-	@Autowired
 	private Controller controller;
-		
+	
+	public AutoWiredPropertyApp(Controller controller) {
+		super();
+		this.controller = controller;
+	}
+
 	public static void main(String[] args) {
 		SpringApplication.run(AutoWiredPropertyApp.class, args);
 	}

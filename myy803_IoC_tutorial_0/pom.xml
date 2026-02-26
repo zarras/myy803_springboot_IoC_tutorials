@@ -2,15 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	
+	<!-- model version of the pom file -->
 	<modelVersion>4.0.0</modelVersion>
 	
 	<!-- here we define the parent pom which defines further properties, dependencies, etc. -->
+	<!-- groupId and artifactId define a specific jar file ... -->
 	<parent>
-	
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
 	<groupId>myy803.springboot.IoC</groupId>

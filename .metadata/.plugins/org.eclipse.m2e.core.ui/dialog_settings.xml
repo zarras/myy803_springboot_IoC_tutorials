@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\zarras\Desktop\pinkpanther"/>
+			<item value="C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_8"/>
 			<item value="C:\Users\zarras\Documents\zarras-home\doc\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\pom.xml"/>
 			<item value="C:\Users\zarras\Documents\zarras-home\doc\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0"/>
 		</list>
