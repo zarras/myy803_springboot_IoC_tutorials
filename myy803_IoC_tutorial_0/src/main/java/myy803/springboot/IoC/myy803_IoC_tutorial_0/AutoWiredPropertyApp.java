@@ -7,25 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
-public class AutoWiredPropertyApp implements CommandLineRunner {
-	
-	private Controller controller;
-	
-	public AutoWiredPropertyApp(Controller controller) {
-		super();
-		this.controller = controller;
-	}
+public class AutoWiredPropertyApp {
+		
 
 	public static void main(String[] args) {
 		SpringApplication.run(AutoWiredPropertyApp.class, args);
-	}
-
-	@Override
-	public void run(String... args) throws Exception {
-		
-		System.out.println("******* SpringBoot IoC Tutorial 0 ******* Autowire a Controller object");
-		
-		controller.request("Dig a whole");
-		controller.request("Bury treasure");
 	}
 }

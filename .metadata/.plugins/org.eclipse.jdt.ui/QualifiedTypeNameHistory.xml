@@ -6,8 +6,19 @@
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_8.commands.Command"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_3.controllers.ControllerImplA"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_3.controllers.ControllerImplB"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_1.controller.OnlineStoreController"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_1.services.CustomerService"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_1.services.EmployeeService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_1.services.CreditCardService"/>
+    <fullyQualifiedTypeName name="myy803.springboot.IoC.myy803_IoC_tutorial_1.services.PaypalService"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>

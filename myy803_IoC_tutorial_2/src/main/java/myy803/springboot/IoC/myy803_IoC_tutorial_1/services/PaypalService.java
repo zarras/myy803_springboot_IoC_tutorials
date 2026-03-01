@@ -7,6 +7,6 @@ public class PaypalService implements PaymentService{
 
 	@Override
 	public void executePayment() {
-		System.out.println("Executing Payment");
+		System.out.println("Executing Paypal Payment");
 	}
 }

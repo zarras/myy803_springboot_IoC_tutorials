@@ -1,10 +1,7 @@
 package myy803.springboot.IoC.myy803_IoC_tutorial_1.controller;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 
 import myy803.springboot.IoC.myy803_IoC_tutorial_1.services.CreditCardService;

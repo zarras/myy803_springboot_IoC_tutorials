@@ -1672,3 +1672,122 @@ org.eclipse.core.runtime.CoreException: Launch configuration AutoWiredComposite 
 	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
 	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-02-26 13:22:40,823 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-26 13:22:40,834 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-26 13:22:40,836 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-02-27 00:52:13,931 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@1ee0cf59{STOPPING}[12.0.3,sto=0]
+2026-02-27 00:52:14,104 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7819677f{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2026-03-01 20:06:11,035 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-03-01 20:07:56,399 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:07:56,446 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:07:56,461 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:11:05,921 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:11:05,922 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:11:05,927 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:13:38,856 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:13:38,858 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:13:38,863 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:14:03,206 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:14:03,207 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:14:03,210 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:14:45,921 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:14:45,923 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:14:45,928 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:15:05,201 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.10+11-LTS-240
+2026-03-01 20:15:05,264 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@640c81cf{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@21c0959a{STARTED}}
+2026-03-01 20:15:05,265 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-03-01 20:15:05,327 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4b6d5c23{HTTP/1.1, (http/1.1)}{127.0.0.1:52701}
+2026-03-01 20:15:05,335 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@24f91cc3{STARTING}[12.0.3,sto=0] @570678ms
+2026-03-01 20:15:31,792 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:15:31,793 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:15:31,799 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:15:43,752 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:15:43,753 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:15:43,756 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:16:58,569 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:16:58,585 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:16:58,589 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:20:50,445 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:20:50,469 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:20:50,475 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:21:04,023 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:21:04,024 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:21:04,028 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:23:07,332 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:07,333 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:07,336 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:23:22,205 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:23:22,238 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:22,242 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:23:25,547 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:23:25,574 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:25,576 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:23:33,198 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:33,199 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:33,203 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:23:42,078 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:42,079 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:23:42,085 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:26:06,618 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:26:06,625 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:26:06,629 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:26:34,849 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:26:34,874 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:26:34,876 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:28:14,316 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:28:14,317 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:28:14,320 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:28:23,977 [Worker-28: Launching OnlineStoreControllerTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:28:23,978 [Worker-28: Launching OnlineStoreControllerTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:28:23,985 [Worker-28: Launching OnlineStoreControllerTest] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:32:32,048 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:32:32,049 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:32:32,053 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:33:12,967 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:33:12,971 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:33:12,974 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:33:25,969 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:33:25,978 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:33:25,982 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:33:56,066 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:33:56,067 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:33:56,069 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:34:07,500 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:34:07,501 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:34:07,503 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_1\src\test\resources
+2026-03-01 20:36:37,704 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:36:37,705 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:36:37,708 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_0\src\test\resources
+2026-03-01 20:39:17,636 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:39:17,678 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:39:17,681 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:51:36,035 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:51:36,141 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:51:36,146 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:51:53,115 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:51:53,116 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:51:53,119 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:54:08,760 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:54:08,785 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:54:08,790 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:54:22,140 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:54:22,159 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:54:22,162 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:55:15,997 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:55:15,998 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:55:16,002 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:55:57,607 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:55:57,608 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:55:57,611 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:56:04,438 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:56:04,439 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:56:04,447 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:56:17,407 [Worker-36: Launching OnlineStoreControllerTest (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:56:17,408 [Worker-36: Launching OnlineStoreControllerTest (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:56:17,413 [Worker-36: Launching OnlineStoreControllerTest (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:56:51,846 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:56:51,852 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:56:51,856 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources
+2026-03-01 20:57:13,298 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-03-01 20:57:13,303 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-03-01 20:57:13,305 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\zarras\Documents\zarras-work\courses\soft-eng\slides\spring-stuff\myy803-springboot-IoC\myy803_IoC_tutorial_2\src\test\resources

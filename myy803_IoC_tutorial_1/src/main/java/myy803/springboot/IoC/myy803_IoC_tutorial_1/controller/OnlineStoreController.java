@@ -1,5 +1,6 @@
 package myy803.springboot.IoC.myy803_IoC_tutorial_1.controller;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 
